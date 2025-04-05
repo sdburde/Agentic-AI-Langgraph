@@ -1,3 +1,14 @@
+---
+title: AgenticAI LangGraph
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.36.0"  # Use a recent stable version or match your local version
+app_file: app.py
+pinned: false
+---
+
 # AgenticAI - LangGraph Project
 
 AgenticAI is a Streamlit-based application that integrates Groq's language models with a graph-based workflow (LangGraph) to enable interactive AI functionalities, such as chatbots and extensible use cases. The project is designed with a modular architecture for easy development and scalability.
