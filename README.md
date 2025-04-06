@@ -10,6 +10,7 @@ pinned: false
 ---
 
 # AgenticAI - LangGraph Project
+https://huggingface.co/spaces/Sdbstorage/agenticailanggraph
 
 AgenticAI is a Streamlit-based application that integrates Groq's language models with a graph-based workflow (LangGraph) to enable interactive AI functionalities, such as chatbots and extensible use cases. The project is designed with a modular architecture for easy development and scalability.
 
